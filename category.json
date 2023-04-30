@@ -1,0 +1,28 @@
+[
+    
+    {
+        "id": "1",
+        "name": "Sazek",
+        "image": "https://i.ibb.co/r2GjCf6/Sajek.png",
+        "details": "Sazek is a beautiful hill station located in the Chittagong Hill Tracts of Bangladesh. It is famous for its natural beauty, diverse ethnic communities, and trekking opportunities. The highest peak in Bangladesh, Keokradong, is located here."
+    },
+    {
+        "id": "2",
+        "name": "Sreemangal",
+        "image": "https://i.ibb.co/1fLnPw3/Sreemongol.png",
+        "details": "Sreemangal is a tea garden area located in the northeastern part of Bangladesh. It's known for its lush green tea plantations, wildlife sanctuaries, and forest reserves. The Lawachara National Park is home to rare species of animals and birds."
+    },
+    {
+        "id": "3",
+        "name": "Sundarban",
+        "image": "https://i.ibb.co/wdn0tP5/sundorbon.png",
+        "details": "The Sundarbans is a mangrove forest located in the southwestern part of Bangladesh, extending into India. It is home to the Royal Bengal Tiger, saltwater crocodile, and various bird species. The forest is also famous for its natural beauty and ecological significance."
+    },
+
+    {
+        "id": "4",
+        "name": "Cox's Bazar",
+        "image": "https://i.ibb.co/Bjgv0dL/Rectangle-28.png",
+        "details": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts."
+    }
+]
