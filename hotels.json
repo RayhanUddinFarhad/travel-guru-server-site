@@ -1,0 +1,163 @@
+[
+   
+    {
+      "id": "1",
+      "place_name": "Sazek",
+      "hotels": [
+        {
+          "name": "Peda Ting Ting Cottage",
+          "guests": 4,
+          "bedrooms": 1,
+          "beds": 2,
+          "baths": 1,
+          "wifi": true,
+          "rating": "4.3",
+          "cancellation": true,
+          "price": "$40/night",
+
+          "image" : "https://images.unsplash.com/photo-1591088398332-8a7791972843?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+
+        },
+        {
+          "name": "Runmoy Resort",
+          "guests": 4,
+          "bedrooms": 1,
+          "beds": 2,
+          "baths": 1,
+          "wifi": true,
+          "rating": "4.5",
+          "cancellation": true,
+          "price": "$45/night",
+
+          "image" : "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "place_name": "Srimongol",
+
+      "hotels": [
+        {
+          "name": "Grand Sultan Tea Resort & Golf",
+          "guests": 2,
+          "bedrooms": 1,
+          "beds": 1,
+          "baths": 1,
+          "wifi": true,
+          "rating": "4.9",
+          "cancellation": true,
+          "price": "$35/night",
+
+          "image" : "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+
+        },
+        {
+          "name": "Srimangal Inn",
+          "guests": 2,
+          "bedrooms": 1,
+          "beds": 1,
+          "baths": 1,
+          "wifi": true,
+          "rating": "4.5",
+          "cancellation": true,
+          "price": "$50/night",
+
+          "image" : "https://images.unsplash.com/photo-1578898886225-c7c894047899?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "place_name": "Sundarban",
+
+
+      "hotels": [
+        {
+          "name": "Sundarban Tiger Camp",
+          "guests": 2,
+          "bedrooms": 1,
+          "beds": 1,
+          "baths": 1,
+          "wifi": true,
+          "rating": "5.0",
+          "cancellation": true,
+          "price": "$50/night",
+
+          "image" : "https://images.unsplash.com/photo-1594927100512-2510da91509d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+
+        },
+        {
+          "name": "Sundarban Royal Eco Resort",
+          "guests": 2,
+          "bedrooms": 1,
+          "beds": 1,
+          "baths": 1,
+          "wifi": true,
+          "rating": "4.6",
+          "cancellation": true,
+          "price": "$30/night",
+
+          "image" : "https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1760&q=80"
+
+        }
+      ]
+    },
+
+
+    {
+        "id": "4",
+        "place_name": "Cox's Bazar",
+
+        "hotels": [
+          {
+            "name": "Sea Pearl Beach Resort & Spa",
+            "guests": 2,
+            "bedrooms": 1,
+            "beds": 1,
+            "baths": 1,
+            "wifi": true,
+            "rating": "4.5",
+
+            "cancellation": true,
+            "price": "$40/night",
+
+            "image" : "https://images.unsplash.com/photo-1566665797739-1674de7a421a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+
+          },
+          {
+            "name": "Hotel Sea Crown",
+            "guests": 2,
+            "bedrooms": 1,
+            "beds": 1,
+            "baths": 1,
+            "wifi": true,
+            "rating": "4.5",
+
+            "cancellation": true,
+            "price": "$70/night",
+
+            "image" : "https://images.unsplash.com/photo-1557127275-f8b5ba93e24e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+
+          },
+          {
+            "name": "Long Beach Hotel",
+            "guests": 2,
+            "bedrooms": 1,
+            "beds": 1,
+            "baths": 1,
+            "wifi": true,
+            "rating": "4.5",
+
+            "cancellation": true,
+            "price": "$65/night",
+
+            "image" : "https://images.unsplash.com/photo-1612320582827-a95ab2596dbc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
+
+          }
+        ]
+      }
+  ]
+  
